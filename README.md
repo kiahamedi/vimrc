@@ -1,5 +1,5 @@
 # vimrc
-![Alt text](https://raw.githubusercontent.com/kiahamedi/SDM/master/screenshot.png "Optional title")</br>
+![Alt text](https://raw.githubusercontent.com/kiahamedi/vimrc/master/screenshot.png "Optional title")</br>
 my vimrc with plugins
 
 # Usage
