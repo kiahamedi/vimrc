@@ -21,6 +21,7 @@
 "":set ignorecase " Ignore case in search
 :set noswapfile " Avoid swap files
 :set mouse=a " Mouse Integration
+:set wrap linebreak nolist
 
 
 " auto complete for ( , " , ' , [ , { 
